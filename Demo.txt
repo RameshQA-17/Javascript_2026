@@ -1,0 +1,1 @@
+Playwright test was created specifically to accommodate the needs of end-to-end testing.Playwright supports all modern rendering enginess inculding chromium,webkit,and Firefox.Test on Windows,Linux,and macOs,locally or on CI,headless or headed with the native mobile emulation of google chrome for android and mobile safari
